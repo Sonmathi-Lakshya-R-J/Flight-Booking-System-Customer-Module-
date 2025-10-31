@@ -1,0 +1,6 @@
+user pass
+user1 pass123
+hrg 123
+hrg 12a
+1 1
+newuser pass123

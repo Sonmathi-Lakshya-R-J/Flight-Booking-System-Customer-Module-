@@ -1,0 +1,5 @@
+user,NAME,20,F,AI105,82146
+user1,user1,20,m,AI225,82632
+user1,user,2,f,AI225,82511
+user,name,20,F,AI106,25905
+1,2,20,m,AI105,797
